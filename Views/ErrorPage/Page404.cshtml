@@ -1,0 +1,82 @@
+﻿@{
+    ViewBag.Title = "Page404";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Aradığınız Sayfa Bulunamadı</title>
+
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,900" rel="stylesheet">
+
+    <!-- Custom stylesheet -->
+    <link type="text/css" rel="stylesheet" href="~/AdminLTE-3.0.4/colorlib-error-404-10/css/style.css" />
+
+    <style>
+        #notfound {
+            position: relative;
+            height: 100vh;
+            background-image: url('@Url.Content("~/AdminLTE-3.0.4/colorlib-error-404-10/img/yazom.jpeg")');
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .notfound {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            max-width: 460px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .notfound-404 {
+            font-size: 150px;
+            line-height: 1;
+            margin-bottom: 10px;
+        }
+
+        .notfound h2,
+        .notfound p,
+        .notfound a {
+            color: white; /* Yazıları beyaz yapar */
+        }
+
+        h2 {
+            font-size: 22px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="notfound">
+        <div class="notfound">
+            <div class="notfound-404">
+                <h1>Oops!</h1>
+            </div>
+            <h2>404 - Aradığınız sayfa bulunamadı.</h2>
+            <br /><br />
+            <h2>Ama çok şanslısın Yazo seni güvenli bir yere yönlendirecek. Gitmeden pasta almak ister misin :)</h2>
+            <a href="/Heading/Index/">Yazoyu Öp </a>
+        </div>
+    </div>
+
+</body>
+
+</html>

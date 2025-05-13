@@ -1,0 +1,21 @@
+## Ignore Visual Studio build files
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.vs/
+.vscode/
+packages/
+TestResults/
+*.ncrunch*
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.sln.docstates
+
+## Ignore OS files
+.DS_Store
+Thumbs.db

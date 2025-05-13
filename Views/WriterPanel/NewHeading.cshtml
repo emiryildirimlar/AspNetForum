@@ -1,0 +1,59 @@
+﻿@model EntityLayer.Concrate.Heading
+@{
+    ViewBag.Title = "NewHeading";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<h2>Yeni Başlık Ekleme</h2>
+<br />
+@using (Html.BeginForm("NewHeading", "WriterPanel", FormMethod.Post, new { id = "newHeadingForm" }))
+{
+    <div class="form-group">
+        @Html.Label("Başlık Adı")
+        @Html.TextBoxFor(x => x.HeadingName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.HeadingName)
+        <br />
+
+        @Html.Label("Kategori")
+        @Html.DropDownListFor(x => x.CategoryId, (List<SelectListItem>)ViewBag.vlc, new { @class = "form-control" })
+        <br />
+        <button class="btn btn-info">Başlığı Oluştur</button>
+    </div>
+}
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#newHeadingForm').submit(function (e) {
+            e.preventDefault(); // Sayfanın yenilenmesini engelle
+
+            var formData = $(this).serialize(); // Form verilerini al
+
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("NewHeading", "WriterPanel")', // Action URL
+                data: formData,
+                success: function (response) {
+                    // İşlem başarılıysa SweetAlert ile göster
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Başarılı',
+                        text: 'Başlık başarıyla eklendi!'
+                    }).then(function () {
+                        // SweetAlert kapandıktan sonra yönlendirme yapılabilir
+                        window.location.href = '@Url.Action("MyHeading", "WriterPanel")';
+                    });
+                },
+                error: function (xhr, status, error) {
+                    // Hata durumunda SweetAlert ile hata mesajı göster
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Hata',
+                        text: 'Başlık eklenirken bir hata oluştu!'
+                    });
+                }
+            });
+        });
+    });
+</script>
