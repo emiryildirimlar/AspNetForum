@@ -1,3 +1,4 @@
+![foto1](https://github.com/user-attachments/assets/99326fb8-9752-480a-a742-d8863d82bd47)
 # 💬 AspNetForum – ASP.NET MVC Forum Web Sitesi
 
 🇹🇷 Türkçe açıklama aşağıdadır.  
