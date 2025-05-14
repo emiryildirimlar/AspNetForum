@@ -1,4 +1,7 @@
-![foto1](https://github.com/user-attachments/assets/99326fb8-9752-480a-a742-d8863d82bd47)
+![foto2](https://github.com/user-attachments/assets/144960c3-83b1-44a3-8511-add4de00550d)
+![foto3](https://github.com/user-attachments/assets/9fc39fb2-b89e-4dde-930d-f702cee6b7ba)
+
+
 # 💬 AspNetForum – ASP.NET MVC Forum Web Sitesi
 
 🇹🇷 Türkçe açıklama aşağıdadır.  
@@ -34,28 +37,25 @@ AspNetForum, ASP.NET MVC kullanılarak geliştirilmiş tam işlevsel bir forum w
 ## 🖼️ Ekran Görüntüleri
 
 ### 🔐 Admin Giriş Paneli  
-<img src="screenshots/foto1.png" alt="Admin Giriş" width="600"/>
+![foto1](https://github.com/user-attachments/assets/99326fb8-9752-480a-a742-d8863d82bd47)
 
 ### 📌 Entry İşlemleri (Admin)  
-<img src="screenshots/foto2.png" alt="Entry Admin" width="600"/>
+![foto9](https://github.com/user-attachments/assets/80e629d5-9607-4058-afa6-b4fd324fb052)
 
 ### 👥 Kullanıcılar Listesi  
-<img src="screenshots/foto3.png" alt="Kullanıcılar" width="600"/>
+![foto3](https://github.com/user-attachments/assets/9fc39fb2-b89e-4dde-930d-f702cee6b7ba)
 
 ### 💬 Site İçi Mesajlaşma  
-<img src="screenshots/foto5.png" alt="Mesajlaşma" width="600"/>
+![foto5](https://github.com/user-attachments/assets/7dbe6892-e71a-40e2-8783-db58ffa4aba0)
 
 ### ✍️ Yazar Giriş Paneli  
-<img src="screenshots/foto6.png" alt="Yazar Giriş" width="600"/>
+![foto6](https://github.com/user-attachments/assets/2a706e78-5e7a-4961-a73d-025b62ffd3aa)
 
 ### 📝 Forum Entry Görünümü  
-<img src="screenshots/foto7.png" alt="Entry" width="600"/>
+![foto7](https://github.com/user-attachments/assets/1106134e-84e0-4164-8045-150f1560846f)
 
 ### 🧑 Profil Düzenleme  
-<img src="screenshots/foto8.png" alt="Profil Düzenleme" width="600"/>
-
-### 🧾 Entry Yönetimi (Admin)  
-<img src="screenshots/foto9.png" alt="Entry Admin 2" width="600"/>
+![foto8](https://github.com/user-attachments/assets/1aa8f668-2bd0-45f0-94d8-ce64a7257cfd)
 
 
 ### ⚙️ Kurulum
