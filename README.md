@@ -5,20 +5,20 @@
 
 ---
 
-## 🇹🇷 Türkçe Sürüm
+ 🇹🇷 Türkçe Sürüm
 
-### 🚀 Proje Hakkında
+ 🚀 Proje Hakkında
 
-**ForumMVC**, ASP.NET MVC kullanılarak geliştirilmiş tam işlevsel bir forum web sitesidir. Kullanıcıların kayıt olup giriş yapabildiği, konu açıp yorum yazabildiği dinamik bir tartışma platformudur.
+AspNetForum, ASP.NET MVC kullanılarak geliştirilmiş tam işlevsel bir forum web sitesidir. Kullanıcıların kayıt olup giriş yapabildiği, konu açıp yorum yazabildiği dinamik bir tartışma platformudur.
 
-### 🧰 Kullanılan Teknolojiler
+ 🧰 Kullanılan Teknolojiler
 
 - 🌐 **ASP.NET MVC 5** – Web uygulama çatısı
 - 🗃️ **Entity Framework** – Veritabanı işlemleri (Code First)
 - 🎨 **Razor View Engine** – Dinamik HTML oluşturma
 - 🛠️ **AdminLTE** – Admin panel tasarımı
 
-### 🎯 Özellikler
+ 🎯 Özellikler
 
 - 👤 Kullanıcı kayıt ve giriş sistemi
 - 📝 Forum konuları oluşturma
@@ -47,7 +47,7 @@ Her türlü soru ve geri bildirim için:
 
 🇬🇧 English Version
 🚀 About the Project
-ForumMVC is a full-featured discussion forum web application built with ASP.NET MVC. Users can register, log in, create topics, and post replies — all within a clean and functional interface.
+AspNetForum is a full-featured discussion forum web application built with ASP.NET MVC. Users can register, log in, create topics, and post replies — all within a clean and functional interface.
 
 🧰 Technologies Used:
 🌐 ASP.NET MVC 5 – Web application framework
@@ -58,11 +58,16 @@ ForumMVC is a full-featured discussion forum web application built with ASP.NET 
 
 🎯 Features:
 👤 User registration and login
+
 📝 Topic creation and management
+
 💬 Posting replies
 🔐 Admin panel with role control
+
 🗂️ Topic categorization
+
 📅 Metadata: dates, authors, etc.
+
 ⚙️ Simple and extendable architecture
 
 📬 Contact
