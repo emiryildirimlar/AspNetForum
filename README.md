@@ -51,8 +51,11 @@ AspNetForum is a full-featured discussion forum web application built with ASP.N
 
 🧰 Technologies Used:
 🌐 ASP.NET MVC 5 – Web application framework
+
 🗃️ Entity Framework (Code First) – ORM for database operations
+
 🎨 Razor View Engine – Dynamic HTML rendering
+
 🛠️ AdminLTE – Admin panel UI design
 
 
