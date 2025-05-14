@@ -30,33 +30,32 @@ AspNetForum, ASP.NET MVC kullanılarak geliştirilmiş tam işlevsel bir forum w
 
 ---
 
-### 🖼️ Ekran Görüntüleri
+## 🖼️ Ekran Görüntüleri
 
-#### 🔐 Admin Giriş Paneli  
-![Admin Giriş](screenshots/foto1.png)
+### 🔐 Admin Giriş Paneli  
+<img src="screenshots/foto1.png" alt="Admin Giriş" width="600"/>
 
-#### 📌 Entry İşlemleri (Admin)  
-![Entry Admin](screenshots/foto2.png)
+### 📌 Entry İşlemleri (Admin)  
+<img src="screenshots/foto2.png" alt="Entry Admin" width="600"/>
 
-#### 👥 Kullanıcılar Listesi  
-![Kullanıcılar](screenshots/foto3.png)
+### 👥 Kullanıcılar Listesi  
+<img src="screenshots/foto3.png" alt="Kullanıcılar" width="600"/>
 
-#### 💬 Site İçi Mesajlaşma  
-![Mesajlaşma](screenshots/foto5.png)
+### 💬 Site İçi Mesajlaşma  
+<img src="screenshots/foto5.png" alt="Mesajlaşma" width="600"/>
 
-#### ✍️ Yazar Giriş Paneli  
-![Yazar Giriş](screenshots/foto6.png)
+### ✍️ Yazar Giriş Paneli  
+<img src="screenshots/foto6.png" alt="Yazar Giriş" width="600"/>
 
-#### 📝 Forum Entry Görünümü  
-![Entry](screenshots/foto7.png)
+### 📝 Forum Entry Görünümü  
+<img src="screenshots/foto7.png" alt="Entry" width="600"/>
 
-#### 🧑 Profil Düzenleme  
-![Profil Düzenleme](screenshots/foto8.png)
+### 🧑 Profil Düzenleme  
+<img src="screenshots/foto8.png" alt="Profil Düzenleme" width="600"/>
 
-#### 🧾 Entry Yönetimi (Admin)  
-![Entry Admin 2](screenshots/foto9.png)
+### 🧾 Entry Yönetimi (Admin)  
+<img src="screenshots/foto9.png" alt="Entry Admin 2" width="600"/>
 
----
 
 ### ⚙️ Kurulum
 
