@@ -5,28 +5,58 @@
 
 ---
 
- 🇹🇷 Türkçe Sürüm
+## 🇹🇷 Türkçe Sürüm
 
- 🚀 Proje Hakkında
+### 🚀 Proje Hakkında
 
 AspNetForum, ASP.NET MVC kullanılarak geliştirilmiş tam işlevsel bir forum web sitesidir. Kullanıcıların kayıt olup giriş yapabildiği, konu açıp yorum yazabildiği dinamik bir tartışma platformudur.
 
- 🧰 Kullanılan Teknolojiler
+### 🧰 Kullanılan Teknolojiler
 
-- 🌐 **ASP.NET MVC 5** – Web uygulama çatısı
-- 🗃️ **Entity Framework** – Veritabanı işlemleri (Code First)
-- 🎨 **Razor View Engine** – Dinamik HTML oluşturma
-- 🛠️ **AdminLTE** – Admin panel tasarımı
+- 🌐 **ASP.NET MVC 5** – Web uygulama çatısı  
+- 🗃️ **Entity Framework** – Veritabanı işlemleri (Code First)  
+- 🎨 **Razor View Engine** – Dinamik HTML oluşturma  
+- 🛠️ **AdminLTE** – Admin panel tasarımı  
 
- 🎯 Özellikler
+### 🎯 Özellikler
 
-- 👤 Kullanıcı kayıt ve giriş sistemi
-- 📝 Forum konuları oluşturma
-- 💬 Yorum yapma
-- 🔐 Yetki kontrollü yönetici paneli
-- 🗂️ Kategori bazlı konu ayrımı
-- 📅 Yayın tarihi, kullanıcı bilgisi gibi meta veriler
-- ⚙️ Basit ama genişletilebilir yapı
+- 👤 Kullanıcı kayıt ve giriş sistemi  
+- 📝 Forum konuları oluşturma  
+- 💬 Yorum yapma  
+- 🔐 Yetki kontrollü yönetici paneli  
+- 🗂️ Kategori bazlı konu ayrımı  
+- 📅 Yayın tarihi, kullanıcı bilgisi gibi meta veriler  
+- ⚙️ Basit ama genişletilebilir yapı  
+
+---
+
+### 🖼️ Ekran Görüntüleri
+
+#### 🔐 Admin Giriş Paneli  
+![Admin Giriş](screenshots/foto1.png)
+
+#### 📌 Entry İşlemleri (Admin)  
+![Entry Admin](screenshots/foto2.png)
+
+#### 👥 Kullanıcılar Listesi  
+![Kullanıcılar](screenshots/foto3.png)
+
+#### 💬 Site İçi Mesajlaşma  
+![Mesajlaşma](screenshots/foto5.png)
+
+#### ✍️ Yazar Giriş Paneli  
+![Yazar Giriş](screenshots/foto6.png)
+
+#### 📝 Forum Entry Görünümü  
+![Entry](screenshots/foto7.png)
+
+#### 🧑 Profil Düzenleme  
+![Profil Düzenleme](screenshots/foto8.png)
+
+#### 🧾 Entry Yönetimi (Admin)  
+![Entry Admin 2](screenshots/foto9.png)
+
+---
 
 ### ⚙️ Kurulum
 
